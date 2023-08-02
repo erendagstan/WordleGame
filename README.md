@@ -1,5 +1,5 @@
 # WordleGame
-
+Word Game developed using Unity.
 <h3>Gameplay Photos:</h3> 
 
 <img width="229" alt="Wordgame-1" src="https://github.com/erendagstan/WordleGame/assets/86521359/6bb6797a-c2ab-4ad9-8106-8df197bee5fb">
